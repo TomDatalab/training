@@ -31,7 +31,7 @@ files.forEach((filename, index) => {
   button.addEventListener('click', () => {
     const link = document.createElement('a');
 
-    // Lógica especial para o arquivo grande hospedado no Google Drive
+    
     if (filename === 'Logging_Data_159F11B.DLIS') {
       link.href = 'http://buronius.com/Logging_Data_159F11B.DLIS';
     } else {
