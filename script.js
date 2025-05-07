@@ -2,7 +2,6 @@ const files = [
   '2nd_Opinion_159F11B.csv',
   'CBL_USIT_Logs.pdf',
   'Completion_159F11B.pdf',
-  'Logging_Data_159F11B.DLIS',
 ];
 
 const body = document.querySelector('.body');
