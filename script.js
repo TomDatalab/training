@@ -1,7 +1,7 @@
 const files = [
   '2nd_Opinion_159F11B.csv',
   'CBL_USIT_Logs.pdf',
-  'Completion_159F11B.pdf',
+  'Completion_159F11B.PDF',
 ];
 
 const body = document.querySelector('.body');
