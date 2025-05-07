@@ -1,4 +1,4 @@
-const files = ['name.pdf'];
+const files = ['test.txt'];
 
 const body = document.querySelector('.body');
 
