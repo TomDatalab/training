@@ -33,7 +33,7 @@ files.forEach((filename, index) => {
 
     
     if (filename === 'Logging_Data_159F11B.DLIS') {
-      link.href = 'http://buronius.com/Logging_Data_159F11B.DLIS';
+      link.href = 'https://buronius.com/Logging_Data_159F11B.DLIS';
     } else {
       link.href = `./files/${filename}`;
     }
