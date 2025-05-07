@@ -5,7 +5,7 @@ const files = [
   'Reference-Ouronova-EN-us.pdf',
   'Training_CO2H2S_wellnova_EN-us.pdf',
   'Wellnova Software Teaser EN.jpg',
-  'workshop_reference_wellnova.pdf',
+  'Workshop_reference_wellnova.pdf',
   'Logging_Data_159F11B.DLIS',
 ];
 
