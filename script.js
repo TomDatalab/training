@@ -31,7 +31,6 @@ files.forEach((filename, index) => {
   button.addEventListener('click', () => {
     const link = document.createElement('a');
 
-    
     if (filename === 'Logging_Data_159F11B.DLIS') {
       link.href = 'https://buronius.com/Logging_Data_159F11B.DLIS';
     } else {
