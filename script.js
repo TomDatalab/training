@@ -3,6 +3,13 @@ const files = [
   'CBL_USIT_Logs.pdf',
   'Completion_159F11B.PDF',
   'Logging_Data_159F11B.DLIS',
+  'Cement Integrity - Solution.pdf',
+  'Digitalization - Solution.pdf',
+  'Reference-Cement.pdf',
+  'Solutions.pdf',
+  'Step by step.pdf',
+  'Wellnova_Solutions.pdf',
+  'Workshop_Cement Integrity_Wellnova.pdf',
 ];
 
 const body = document.querySelector('.body');
