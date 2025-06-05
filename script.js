@@ -1,10 +1,10 @@
 const files = [
   '2nd_Opinion_159F11B.csv',
   'CBL_USIT_Logs.pdf',
-  'Completion_159F11B.PDF',
-  'Logging_Data_159F11B.DLIS',
   'Cement Integrity - Solution.pdf',
+  'Completion_159F11B.PDF',
   'Digitalization - Solution.pdf',
+  'Logging_Data_159F11B.DLIS',
   'Reference-Cement.pdf',
   'Solutions.pdf',
   'Step by step.pdf',
