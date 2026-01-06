@@ -29,7 +29,7 @@ main {
 
 main .container {
   width: 61.94rem;
-  height: 46.5rem;
+  height: 80vh;
 
   flex-shrink: 0;
   border-radius: 12px;
