@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', () => {
         'Cement_Integrity_Solution.pdf',
         'Digitization_Solution.pdf',
         'Solutions.pdf',
-        'Step_by_step.pdf',
+
         'Module_Manual.pdf',
       ],
     },
@@ -29,6 +29,7 @@ document.addEventListener('DOMContentLoaded', () => {
         'Completion_159F11B.PDF',
         'CBL_USIT_Logs.pdf',
         '2nd_Opinion_159F11B.csv',
+        'Step_by_step.pdf',
       ],
     },
   ];
