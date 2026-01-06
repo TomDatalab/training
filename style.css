@@ -67,8 +67,6 @@ main .container .title {
   display: flex;
   justify-content: center;
   align-items: center;
-
-  margin-bottom: 12px;
 }
 
 main .container .title h1 {
@@ -78,6 +76,7 @@ main .container .title h1 {
   font-style: normal;
   font-weight: 700;
   line-height: normal;
+  margin: 0;
 }
 
 main .container .body {

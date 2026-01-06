@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   const topics = [
     {
-      title: 'Material Informativo',
+      title: 'Informative Material',
       files: [
         'Cement_Integrity_Solution.pdf',
         'Digitization-Solution.pdf',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
       ],
     },
     {
-      title: 'Arquivos do Hands-on ',
+      title: 'Hands-on Files ',
       files: [
         'Logging_Data_159F11B.DLIS',
         'Completion_159F11B.PDF',
