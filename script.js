@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
   const files = [
     'Cement_Integrity_Solution.pdf',
-    'Digitization-Solution.pdf',
+    'Digitization_Solution.pdf',
     'Solutions.pdf',
     'Step_by_step.pdf',
     'Module_Manual.pdf',
@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', () => {
       title: 'Informative Material',
       files: [
         'Cement_Integrity_Solution.pdf',
-        'Digitization-Solution.pdf',
+        'Digitization_Solution.pdf',
         'Solutions.pdf',
         'Step_by_step.pdf',
         'Module_Manual.pdf',
