@@ -1,37 +1,35 @@
 document.addEventListener('DOMContentLoaded', () => {
   const files = [
-    'Cement Integrity_Solution_VF1.pdf',
-    'Digitization_Solution_VF1.pdf',
-    'Module_Manual_1.0_1.pdf',
-    'Solutions_VF1_1.pdf',
-    'Step_by_step_1.pdf',
-    'Logging_Data_159F11B.DLIS',
-
-    '2nd_Opinion_159F11B.csv',
-    'CBL_USIT_Logs.pdf',
-    'Cement Integrity - Solution.pdf',
-    'Completion_159F11B.PDF',
-    'Digitalization - Solution.pdf',
-    'Logging_Data_159F11B.DLIS',
-    'Reference-Cement.pdf',
+    'Cement_Integrity_Solution.pdf',
+    'Digitization-Solution.pdf',
     'Solutions.pdf',
-    'Step by step.pdf',
-    'Wellnova_Solutions.pdf',
-    'Workshop_Cement Integrity_Wellnova.pdf',
+    'Step_by_step.pdf',
+    'Module_Manual.pdf',
+    'Logging_Data_159F11B.DLIS',
+    'Completion_159F11B.PDF',
+    'CBL_USIT_Logs.pdf',
+    '2nd_Opinion_159F11B.csv',
   ];
 
   const topics = [
     {
       title: 'Material Informativo',
-      files: ['Cement Integrity_Solution_VF1.pdf', 'Module_Manual_1.0_1.pdf'],
+      files: [
+        'Cement_Integrity_Solution.pdf',
+        'Digitization-Solution.pdf',
+        'Solutions.pdf',
+        'Step_by_step.pdf',
+        'Module_Manual.pdf',
+      ],
     },
     {
-      title: 'Digitization',
-      files: ['Digitization_Solution_VF1.pdf', 'Step_by_step_1.pdf'],
-    },
-    {
-      title: 'General',
-      files: ['Solutions_VF1_1.pdf'],
+      title: 'Arquivos do Hands-on ',
+      files: [
+        'Logging_Data_159F11B.DLIS',
+        'Completion_159F11B.PDF',
+        'CBL_USIT_Logs.pdf',
+        '2nd_Opinion_159F11B.csv',
+      ],
     },
   ];
 
