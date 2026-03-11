@@ -1,5 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
   const files = [
+    'CBL_USIT_Logs.pdf',
     'Cement_Integrity-R_Aboud_Ouronova.pptx',
     'Cement_Integrity.pdf',
     'Consult_Material_Aboud.pdf',
@@ -25,8 +26,11 @@ document.addEventListener('DOMContentLoaded', () => {
     {
       title: 'Hands-on Files ',
       files: [
-        'Logging_Data_159F11B.DLIS',
+        'Logging_Data_9OGX44HP.DLIS',
         '2nd_Opinion_159F11B.csv',
+        'CBL_USIT_Logs.pdf',
+        'Completion_9OGX44HP.PDF',
+        'Mud_Log_9OGX44HP.pdf',
         'Passo_a_passo-PT_2.pdf',
         'Step_by_step-EN_3.pdf',
         'TECH_DAY.pdf',
