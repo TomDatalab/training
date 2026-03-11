@@ -21,6 +21,8 @@ document.addEventListener('DOMContentLoaded', () => {
         'Consult_Material_Aboud.pdf',
         'Digitization.pdf',
         'Flyer-New_Project.pdf',
+        'TECH_DAY.pdf',
+        'Wellnova_Solutions.pdf',
       ],
     },
     {
@@ -33,8 +35,6 @@ document.addEventListener('DOMContentLoaded', () => {
         'Mud_Log_9OGX44HP.pdf',
         'Passo_a_passo-PT_2.pdf',
         'Step_by_step-EN_3.pdf',
-        'TECH_DAY.pdf',
-        'Wellnova_Solutions.pdf',
       ],
     },
   ];
