@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', () => {
       title: 'Hands-on Files ',
       files: [
         'Logging_Data_9OGX44HP.DLIS',
-        '2nd_Opinion_159F11B.csv',
+        '2nd_Opinion_9OGX44HP.csv',
         'CBL_USIT_Logs.pdf',
         'Completion_9OGX44HP.PDF',
         'Mud_Log_9OGX44HP.pdf',
