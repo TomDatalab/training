@@ -1,35 +1,34 @@
 document.addEventListener('DOMContentLoaded', () => {
   const files = [
-    'Cement_Integrity_Solution.pdf',
-    'Digitization_Solution.pdf',
-    'Solutions.pdf',
-    'Step_by_step.pdf',
-    'Module_Manual.pdf',
-    'Logging_Data_159F11B.DLIS',
-    'Completion_159F11B.PDF',
-    'CBL_USIT_Logs.pdf',
-    '2nd_Opinion_159F11B.csv',
+    'Cement_Integrity-R_Aboud_Ouronova.pptx',
+    'Cement_Integrity.pdf',
+    'Consult_Material_Aboud.pdf',
+    'Digitization.pdf',
+    'Flyer-New_Project.pdf',
+    'Passo_a_passo-PT_2.pdf',
+    'Step_by_step-EN_3.pdf',
+    'TECH_DAY.pdf',
+    'Wellnova_Solutions.pdf',
   ];
 
   const topics = [
     {
       title: 'Informative Material',
       files: [
-        'Cement_Integrity_Solution.pdf',
-        'Digitization_Solution.pdf',
-        'Solutions.pdf',
-
-        'Module_Manual.pdf',
+        'Cement_Integrity-R_Aboud_Ouronova.pptx',
+        'Cement_Integrity.pdf',
+        'Consult_Material_Aboud.pdf',
+        'Digitization.pdf',
+        'Flyer-New_Project.pdf',
       ],
     },
     {
       title: 'Hands-on Files ',
       files: [
-        'Logging_Data_159F11B.DLIS',
-        'Completion_159F11B.PDF',
-        'CBL_USIT_Logs.pdf',
-        '2nd_Opinion_159F11B.csv',
-        'Step_by_step.pdf',
+        'Passo_a_passo-PT_2.pdf',
+        'Step_by_step-EN_3.pdf',
+        'TECH_DAY.pdf',
+        'Wellnova_Solutions.pdf',
       ],
     },
   ];
