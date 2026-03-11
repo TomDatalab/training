@@ -25,6 +25,8 @@ document.addEventListener('DOMContentLoaded', () => {
     {
       title: 'Hands-on Files ',
       files: [
+        'Logging_Data_159F11B.DLIS',
+        '2nd_Opinion_159F11B.csv',
         'Passo_a_passo-PT_2.pdf',
         'Step_by_step-EN_3.pdf',
         'TECH_DAY.pdf',
