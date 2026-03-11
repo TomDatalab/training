@@ -27,10 +27,10 @@ document.addEventListener('DOMContentLoaded', () => {
       files: [
         'Logging_Data_159F11B.DLIS',
         '2nd_Opinion_159F11B.csv',
-        'Passo_a_passo-PT_2.pdf',
-        'Step_by_step-EN_3.pdf',
-        'TECH_DAY.pdf',
-        'Wellnova_Solutions.pdf',
+        'Passo_a_passo--PT_2.pdf',
+        'Step_by_step--EN_3.pdf',
+        'TECH__DAY.pdf',
+        'Wellnova__Solutions.pdf',
       ],
     },
   ];
